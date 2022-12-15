@@ -1,0 +1,9 @@
+{
+    "dbaddress": "localhost",
+    "dbname": "test",
+    "dbpassword": "",
+    "dbport": 3306,
+    "dbtable": "users",
+    "dbusername": "root",
+    "httpport": 15000
+}
